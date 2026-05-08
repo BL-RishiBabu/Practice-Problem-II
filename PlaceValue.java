@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// This program identifies the denomination of the number entered (1, 10, 100, 1000).
+
 public class PlaceValue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
