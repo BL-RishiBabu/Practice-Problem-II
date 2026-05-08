@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Program to reverse the integer number eg. Input n=231 reverse is 132
+// Program to reverse the integer number
 
 public class ReverseTheNumber {
     public static void main(String[] args) {
